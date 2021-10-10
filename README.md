@@ -1,2 +1,2 @@
 # deeplearning        
-DeepLeanring course on Coursera by Andrew Ng & deepleaening.ai
+DeepLeanring course on Coursera by Andrew Ng & deeplearning.ai
